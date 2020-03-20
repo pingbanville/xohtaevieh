@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xuureilahn.rubencv.es/sitemap.xml
